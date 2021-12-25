@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">RoomDemo</string>
+    <string name="statement_title">Extrato de gastos</string>
+    
+    <string name="title_set_credit_value">Configurar valor do credito:</string>
+    <string name="title_add_new_expense">Adicionar novo gasto:</string>
+    <string name="title_purchase_details">Detalhes da compra</string>
+    <string name="title_credit">Credito</string>
+
+    <string name="button_text_confirm">Confirmar</string>
+    <string name="button_text_cancel">Cancelar</string>
+    <string name="button_text_ok">Ok</string>
+    <string name="button_text_delete">Deletar</string>
+    <string name="button_text_update">Atualizar</string>
+
+    <string name="text_description">Descrição:</string>
+    <string name="text_price">Preço:</string>
+    <string name="text_value_specification">No valor de: %s </string>
+    <string name="text_confirm_change_credit">Seu credito é de: R$ %.2f\nTem certeza que deseja alterar?</string>
+
+    <string name="price_symbol">R$ %.2f</string>
+    <string name="price_symbol_positive">+ R$ %.2f</string>
+    <string name="price_symbol_negative">- R$ %.2f</string>
+</resources>
